@@ -11,7 +11,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 [http://www.add link to your project here.com](http://www.add link to your project here.com)
 
 ### Description
-Your description goes here.
+I am thinking of doing a project on...
 
 ## Rules
 * **Do not** add or remove any files to this repo.
